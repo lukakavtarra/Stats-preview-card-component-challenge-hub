@@ -18,14 +18,14 @@
         align-items: center;
         justify-content: space-between;
     }
-    .test-border {
-        background-color: rgba(28, 25, 56, 255);
-        margin: 209px 350px 0 490px;
-        border-radius: 15px;
-        width: 1118px;
-        position: relative;
-        left: -379px;
-    }
+   .test-border {
+    background-color: rgba(28, 25, 56, 255);
+    margin: 209px 350px 0 490px;
+    border-radius: 15px;
+    width: 1118px;
+    position: relative;
+    left: -84px;
+}
     .text-in-the-border {
         margin: 66px;
     }
