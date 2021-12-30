@@ -1,0 +1,90 @@
+    .attribution {
+        font-size: 11px;
+        text-align: center;
+    }
+    
+    .attribution a {
+        color: hsl(228, 45%, 44%);
+    }
+    
+    body {
+        background-color: rgba(10, 12, 27, 255);
+        color: white;
+    }
+    
+    #purple {
+        color: purple;
+    }
+    
+    .main-border {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: row-reverse;
+    }
+    
+    .test-border {
+        background-color: rgba(28, 25, 56, 255);
+        margin: 209px 350px 0 490px;
+        border-radius: 15px;
+        width: 1118px;
+        position: relative;
+        left: 378px;
+    }
+    
+    .text-in-the-border {
+        margin: 66px;
+    }
+    
+    .img-in-the-border img {
+        border-radius: 0 15px 15px 0;
+        float: left;
+    }
+    
+    h1 {
+        font-size: 32px;
+        font-weight: 700;
+        max-width: 336px;
+        /* padding: 0; */
+        position: relative;
+        top: -44px;
+        font-family: 'Inter', sans-serif;
+    }
+    
+    .normal-text {
+        max-width: 409px;
+        color: rgba(166, 164, 187, 255);
+        position: relative;
+        top: -8px;
+        margin: 0 0 66px;
+        font-family: 'Inter', sans-serif;
+        line-height: 20px;
+    }
+    
+    .company-span {
+        color: rgba(138, 136, 161, 255);
+        font-weight: 400;
+    }
+    
+    .company p {
+        font-size: 20px;
+        font-weight: 700;
+        margin: 0 33px 0 0px;
+    }
+    
+    .company {
+        display: flex;
+        justify-content: space-between;
+        max-width: 335px;
+        font-family: 'Lexend Deca', sans-serif;
+        text-transform: uppercase;
+    }
+    
+    .overcolor {
+        border: none;
+        background-color: rgb(67, 37, 92);
+        padding: 223px;
+        position: relative;
+        border-radius: 0 15px 15px 0;
+        opacity: 0.6;
+    }
