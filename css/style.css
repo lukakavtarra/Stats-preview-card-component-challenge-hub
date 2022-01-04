@@ -10,6 +10,8 @@
     body {
         background-color: rgba(10, 12, 27, 255);
         color: white;
+        margin:0;
+        padding:13%;
     }
     
     #purple {
@@ -25,7 +27,7 @@
     
     .test-border {
         background-color: rgba(28, 25, 56, 255);
-        margin: 209px 350px 0 490px;
+        margin: 0 auto;
         border-radius: 15px;
         width: 1118px;
         position: relative;
